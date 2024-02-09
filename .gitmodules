@@ -1,0 +1,15 @@
+"""
+The .gitmodules file is used in Git repositories to define submodule configurations. 
+Submodules are Git repositories embedded within another Git repository. 
+They allow you to include another project as a subdirectory of your repository, which can be useful for managing 
+dependencies or including external projects.
+
+"""
+# Syntax
+
+"""
+[submodule "path/to/submodule"]
+    path = path/to/submodule
+    url = https://github.com/example/submodule.git
+
+"""

@@ -1,0 +1,19 @@
+{
+    "python.createEnvironment.contentButton": "show"
+}
+
+/*
+
+"python.createEnvironment.contentButton": This is a configuration property specific to the Python extension for Visual 
+    Studio Code. It controls the behavior related to the notification that suggests creating a virtual environment for 
+    a Python project.
+
+"show": This value specifies the desired behavior for the notification. In this case, when set to "show", 
+it indicates that the button to create a virtual environment should be visible in the notification.
+
+So, when you set "python.createEnvironment.contentButton": "show" in your Visual Studio Code settings, 
+it means you want the Python extension to display a notification suggesting the creation of a virtual environment 
+when you open a Python project, and within that notification, there will be a visible button to facilitate the 
+creation of the virtual environment.
+
+*/
